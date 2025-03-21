@@ -13,8 +13,8 @@
 <svelte:head>
 	<script
 		defer
-		data-domain="notmyproblem.cloud"
-		src="https://plausible.jonasclaes.be/js/script.tagged-events.js"
+		data-website-id="dcbd86f7-f89b-4bab-a089-362a08423860"
+		src="https://umami.jonasclaes.be/script.js"
 	></script>
 </svelte:head>
 
